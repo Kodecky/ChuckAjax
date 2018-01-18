@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+}
+.container{
+    width: 800px;
+    margin: 0 auto;
+    #get-joke{
+        margin: 50px 300px;
+    }
+    #joke{
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.container #get-joke {
+  margin: 50px 300px;
+}
+
+.container #joke {
+  margin: 0 auto;
+}
+/*# sourceMappingURL=style.prefixed.css.map */
